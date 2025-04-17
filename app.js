@@ -20,3 +20,4 @@ function calculateResult() {
         document.getElementById('display').innerText = 'Error';
     }
 }
+
